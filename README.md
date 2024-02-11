@@ -3,6 +3,7 @@ Javascript created ruler object for use in SVG containers
 
 
 Explanation can be found here: https://truelogic.org/wordpress/2024/02/11/svg-ruler-in-javascript/
+See index.html, index2.html and index3.html for sample usage.
 
 ![ruler1](https://github.com/amitonline/true-ruler/assets/6240907/c3b631d0-cda4-41cc-aec6-8765d4740c03)
 
